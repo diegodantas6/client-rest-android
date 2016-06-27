@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalendAll Pro</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="senha">Senha</string>
+    <string name="error_senha_pequena">Esta senha é muito pequena</string>
+    <string name="error_senha_invalida">Senha inválida</string>
+    <string name="error_campo_obrigatorio">Este campo é obrigatório</string>
+    <string name="celular">Celular</string>
+</resources>

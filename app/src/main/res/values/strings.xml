@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">CalendAll Pro</string>
+
+    <string name="entrar">Sign in</string>
+    <string name="registrar">Sign up</string>
+
+    <string name="celular">Cell Phone</string>
+    <string name="senha">Password</string>
+
+    <!-- Erros -->
+    <string name="error_senha_pequena">This password is too short</string>
+    <string name="error_senha_invalida">This password is incorrect</string>
+    <string name="error_campo_obrigatorio">This field is required</string>
+
+</resources>
