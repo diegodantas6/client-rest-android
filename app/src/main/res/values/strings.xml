@@ -11,5 +11,7 @@
     <string name="error_senha_pequena">This password is too short</string>
     <string name="error_senha_invalida">This password is incorrect</string>
     <string name="error_campo_obrigatorio">This field is required</string>
+    <string name="title_activity_foto">FotoActivity</string>
+    <string name="title_activity_teste">TesteActivity</string>
 
 </resources>

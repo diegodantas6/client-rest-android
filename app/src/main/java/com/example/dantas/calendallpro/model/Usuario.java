@@ -2,8 +2,18 @@ package com.example.dantas.calendallpro.model;
 
 public class Usuario {
 
+    private String nome;
     private String user;
     private String pass;
+    private byte[] foto;
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 
     public String getUser() {
         return user;
@@ -21,8 +31,11 @@ public class Usuario {
         this.pass = pass;
     }
 
-    public Usuario(String user, String pass) {
-        this.user = user;
-        this.pass = pass;
+    public byte[] getFoto() {
+        return foto;
+    }
+
+    public void setFoto(byte[] foto) {
+        this.foto = foto;
     }
 }

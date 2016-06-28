@@ -19,7 +19,14 @@ public class LoginRegisterActivity extends Activity {
     }
 
     public void goRegister(View v) {
-        Intent register = new Intent(this, RegisterActivity.class);
+        //Intent register = new Intent(this, RegisterActivity.class);
+        //Intent register = new Intent(this, TesteActivity.class);
+        Intent register = new Intent(this, FotoActivity.class);
         startActivity(register);
+    }
+
+    public void goTeste(View v) {
+        Intent login = new Intent(this, TesteActivity.class);
+        startActivity(login);
     }
 }
